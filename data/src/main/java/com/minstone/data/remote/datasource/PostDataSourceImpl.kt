@@ -2,7 +2,6 @@ package com.minstone.data.remote.datasource
 
 import com.minstone.data.remote.api.PostAPI
 import com.minstone.data.remote.dto.response.PostList
-import com.minstone.data.remote.dto.response.PostListResponse
 import com.minstone.data.util.RiiidApiHandler
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
