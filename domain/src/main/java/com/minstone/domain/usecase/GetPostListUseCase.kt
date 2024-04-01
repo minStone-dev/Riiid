@@ -1,7 +1,6 @@
 package com.minstone.domain.usecase
 
 import com.minstone.domain.model.response.PostListModel
-import com.minstone.domain.model.response.PostListResponseModel
 import com.minstone.domain.repository.PostRepository
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

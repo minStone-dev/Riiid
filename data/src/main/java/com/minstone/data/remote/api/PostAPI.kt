@@ -1,7 +1,6 @@
 package com.minstone.data.remote.api
 
 import com.minstone.data.remote.dto.response.PostList
-import com.minstone.data.remote.dto.response.PostListResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
 
