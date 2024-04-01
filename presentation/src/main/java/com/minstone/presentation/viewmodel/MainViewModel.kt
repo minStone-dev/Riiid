@@ -4,7 +4,6 @@ import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.minstone.domain.model.response.PostListModel
-import com.minstone.domain.model.response.PostListResponseModel
 import com.minstone.domain.usecase.GetPostListUseCase
 import com.minstone.presentation.viewmodel.util.Event
 import com.minstone.presentation.viewmodel.util.Result
