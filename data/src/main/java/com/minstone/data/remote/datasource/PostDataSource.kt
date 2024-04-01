@@ -1,7 +1,6 @@
 package com.minstone.data.remote.datasource
 
 import com.minstone.data.remote.dto.response.PostList
-import com.minstone.data.remote.dto.response.PostListResponse
 import kotlinx.coroutines.flow.Flow
 
 interface PostDataSource {
